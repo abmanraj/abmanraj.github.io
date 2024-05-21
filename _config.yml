@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+title: Arjunsinh Bhadoriya
+email: abmanraj@gmail.com
+url: https://github.com/abmanraj/abmanraj.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+keywords: "mobile,ios,android,swift,swiftui,kotlin,java,flutter,dart"
+skills: "Native Mobile Application Developer - Android & iOS"
 meta_author: LastName FirstName
 
 # Google webmaster tools
