@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2018-07-15
-img: toast.png
+img: game.png
 alt: image-alt
 project-date: April 2018
 client: Toast Inc
