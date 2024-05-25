@@ -2,12 +2,12 @@
 layout: default
 modal-id: 6
 date: 2018-07-15
-img: game.png
+img: toast.png
 alt: image-alt
 project-date: April 2018
 client: Toast Inc
 category: Mobile App Development
 description: * Meet new people in a fun and safe environment.
 * Make money as a Host by creating a unique party for guests to attend..
-http://apps.apple.com/us/app/toast-party-app/id1417005546
+
 ---
